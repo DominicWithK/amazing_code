@@ -6,6 +6,15 @@
         {
             Console.WriteLine("Hello, World!");
             Console.ReadLine();
+
+            //Dominik
+
+
+            //Oliver
+
+
+            //John
+
         }
     }
 }
